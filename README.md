@@ -25,12 +25,29 @@ Transformando problemas em soluções digitais com estratégia, código e visão
 Sou formada em **Sistemas de Informação** e atuo unindo tecnologia e estratégia.
 
 Tenho experiência com:
-- 💼 Gestão de sistemas
-- 🛠️ Suporte técnico nível 2
-- 📊 Otimização de processos
-- 🎨 Desenvolvimento Front-end
 
-Meu foco é simples: **resolver problemas reais com tecnologia bem aplicada.**
+- 💼 Gestão de sistemas  
+- 🛠️ Suporte técnico nível 2  
+- 📊 Otimização de processos  
+- 🎨 Desenvolvimento Front-end  
+
+---
+
+<br/>
+
+<div align="center">
+
+## 💡 Inspiração
+
+<p><em>
+"Inovação é a capacidade de ver a mudança como uma oportunidade, não uma ameaça."
+</em></p>
+
+<p><strong>— Steve Jobs</strong></p>
+
+</div>
+
+<br/>
 
 ---
 
@@ -79,4 +96,3 @@ Sistema com integração backend e deploy em cloud functions.
 - 💡 Tecnologia como ferramenta de transformação  
 
 ---
-
