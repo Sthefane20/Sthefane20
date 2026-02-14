@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi 👋, I'm Sthefane Caroline</h1>
+  <h1>Olá👋, Meu nome é Sthefane Caroline</h1>
 
   <h3>
     💼 Gestão de Sistemas | 💻 Active Coder | 🎨 Front-end Enthusiast
