@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Sthefane20/Sthefane20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Hi 👋, I'm Sthefane Caroline</h1>
 
-Here are some ideas to get you started:
+  <h3>
+    💼 Gestão de Sistemas | 💻 Active Coder | 🎨 Front-end Enthusiast
+  </h3>
+  
+  <h4>
+    🎓 Formada em Sistemas de Informação
+  </h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br/>
+
+  <a href="https://www.linkedin.com/in/sthefanecaroline/?skipRedirect=true" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Sthefane Caroline">
+  </a>
+
+</div>
