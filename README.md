@@ -8,7 +8,7 @@
 Transformando problemas em soluções digitais com estratégia, código e visão de negócio.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=6C63FF&size=24&center=true&vCenter=true&width=600&lines=Formada+em+Sistemas+de+Informação;Front-end+Enthusiast;Gestão+de+Sistemas;Sempre+aprendendo+algo+novo" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=6C63FF&size=24&center=true&vCenter=true&width=600&lines=Formada+em+Sistemas+de+Informação;Front-end;Gestão+de+Sistemas;Sempre+aprendendo+algo+novo" />
 
 <br/><br/>
 
