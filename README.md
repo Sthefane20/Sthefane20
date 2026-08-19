@@ -2,13 +2,13 @@
 
 <h1>Olá 👋 Eu sou a Sthefane Caroline</h1>
 
-<h3>💼 Gestão de Sistemas | 💻 Desenvolvedora Front-end | 🚀 Soluções Inteligentes</h3>
+<h3>💼 Gestão de Sistemas | 💻 Desenvolvedora | 🚀 Soluções Inteligentes</h3>
 
 <p>
 Transformando problemas em soluções digitais com estratégia, código e visão de negócio.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=6C63FF&size=24&center=true&vCenter=true&width=600&lines=Formada+em+Sistemas+de+Informação;Front-end;Gestão+de+Sistemas;Sempre+aprendendo+algo+novo" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=6C63FF&size=24&center=true&vCenter=true&width=600&lines=Formada+em+Sistemas+de+Informação;Fullstack;Gestão+de+Sistemas;Sempre+aprendendo+algo+novo" />
 
 <br/><br/>
 
@@ -29,7 +29,7 @@ Tenho experiência com:
 - 💼 Gestão de sistemas  
 - 🛠️ Suporte técnico nível 2  
 - 📊 Otimização de processos  
-- 🎨 Desenvolvimento Front-end  
+- 🎨 Desenvolvimento FullStack
 
 ---
 
