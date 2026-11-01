@@ -1,4 +1,4 @@
-# Olá, sou a Sthefane Caroline! :D
+# Olá, sou a Sthefane Caroline!
 
 Sou formada em **Sistemas de Informação**, Desenvolvedora FullStack e atuo na área de Gestão de Sistemas. Minha jornada na tecnologia sempre foi focada em unir código e visão de negócio: gosto de pegar problemas reais do dia a dia e transformá-los em soluções digitais práticas, bem estruturadas e que facilitem a vida das pessoas.
 
