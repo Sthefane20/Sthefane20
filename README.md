@@ -1,25 +1,26 @@
 <div align="center">
 
-  <!-- Banner Dinâmico no Topo (Efeito Onda Dark/Roxo) -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2b1055,100:6C63FF&height=180&section=header&text=Sthefane%20Caroline&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Gest%C3%A3o%20de%20Sistemas%20%7C%20Desenvolvedora%20FullStack%20%7C%20Solu%C3%A7%C3%B5es%20Inteligentes&descAlignY=58&descSize=16" />
+  <!-- GIF Animado de Programadora com Código no Ecrã -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Animation" />
 
-  <!-- Efeito de Digitação no Estilo Terminal -->
+  <h1>Olá 👋 Eu sou a Sthefane Caroline</h1>
+
+  <!-- Animação de código a ser digitado bem centralizada e maior -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A277FF&center=true&vCenter=true&width=700&lines=%3E+const+role+%3D+%22Formada+em+Sistemas+de+Informa%C3%A7%C3%A3o%22%3B;%3E+let+focus+%3D+%5B%22FullStack%22%2C+%22Gest%C3%A3o+de+Sistemas%22%5D%3B;%3E+Transformando+problemas+em+solu%C3%A7%C3%B5es+digitais...;%3E+Sempre+aprendendo+algo+novo+_" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A277FF&center=true&vCenter=true&width=650&height=45&lines=%3CDesenvolvedora+FullStack+%2F%3E;%7B+Gest%C3%A3o+de+Sistemas+%26+Estrat%C3%A9gia+%7D;Formada+em+Sistemas+de+Informa%C3%A7%C3%A3o;Transformando+problemas+em+c%C3%B3digo+_" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
+  <p>
+    <em>Transformando problemas em soluções digitais com estratégia, código e visão de negócio.</em>
+  </p>
 
-  <!-- Botões de Conexão no Estilo Dark -->
+  <!-- Botões com destaque real no modo escuro -->
   <p>
     <a href="https://www.linkedin.com/in/sthefanecaroline/?skipRedirect=true" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0D1117" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:thefe.06@gmail.com">
-      <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email" />
-    </a>
-    <a href="#-projetos-em-destaque">
-      <img src="https://img.shields.io/badge/Projetos-0D1117?style=for-the-badge&logo=github&logoColor=A277FF&labelColor=0D1117" alt="Projetos" />
+    <a href="mailto:SEU_EMAIL_AQUI">
+      <img src="https://img.shields.io/badge/Contacto-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -27,27 +28,41 @@
 
 ---
 
-## 💻 `whoami` — Sobre Mim
+## 🚀 Sobre Mim
 
-```typescript
-interface DeveloperProfile {
-  name: string;
-  degree: string;
-  coreSkills: string[];
-  mindset: (problem: string) => string;
-}
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <p>Sou formada em <strong>Sistemas de Informação</strong> e atuo a unir tecnologia, código e estratégia de negócio.</p>
+      <p>A minha abordagem foca-se em criar soluções que não apenas funcionam tecnicamente, mas que otimizam o dia a dia e geram impacto real:</p>
+      <ul>
+        <li>💼 <strong>Gestão de sistemas</strong> e arquitetura de soluções</li>
+        <li>🎨 <strong>Desenvolvimento FullStack</strong> (Web & Mobile)</li>
+        <li>📊 <strong>Otimização e automação</strong> de processos</li>
+        <li>🛠️ <strong>Suporte técnico Nível 2</strong> e resolução de problemas críticos</li>
+      </ul>
+      <blockquote>
+        <em>"Código bom resolve problema. Código estratégico gera resultado."</em>
+      </blockquote>
+    </td>
+    <td width="45%" valign="center">
 
-const sthefane: DeveloperProfile = {
-  name: "Sthefane Caroline",
-  degree: "Bacharela em Sistemas de Informação 🎓",
-  coreSkills: [
-
-    "💼 Gestão de Sistemas",
-    "🎨 Desenvolvimento FullStack",
-    "📊 Otimização de Processos",
+```tsx
+// sthefane.config.ts
+const developer = {
+  nome: "Sthefane Caroline",
+  formacao: "Sistemas de Informação",
+  foco: [
+    "FullStack Dev",
+    "Gestão de Sistemas",
+    "Soluções Inteligentes"
   ],
-  mindset: (problem) => {
-    // Código bom resolve problema. Código estratégico gera resultado.
-    return `Solução digital aplicada com visão de negócio para: ${problem} 🚀`;
-  }
+  stackPrincipal: [
+    "React", "React Native",
+    "TypeScript", "Node.js",
+    "Firebase"
+  ],
+  status: "Sempre a aprender 🚀"
 };
+
+export default developer;
