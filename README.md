@@ -1,4 +1,4 @@
-# 👋 Olá, sou a Sthefane Caroline! :D
+# Olá, sou a Sthefane Caroline! :D
 
 Sou formada em **Sistemas de Informação**, Desenvolvedora FullStack e atuo na área de Gestão de Sistemas. Minha jornada na tecnologia sempre foi focada em unir código e visão de negócio: gosto de pegar problemas reais do dia a dia e transformá-los em soluções digitais práticas, bem estruturadas e que facilitem a vida das pessoas.
 
@@ -7,7 +7,7 @@ Atualmente, trabalho bastante com desenvolvimento Web e Mobile, otimização de 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sthefanecaroline/?skipRedirect=true)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
 
-### 🚀 💻 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -34,13 +34,13 @@ Atualmente, trabalho bastante com desenvolvimento Web e Mobile, otimização de 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-### 📌 Alguns projetos que já desenvolvi
+### Alguns projetos que já desenvolvi
 
 * **Sistema de Gestão Financeira:** App em React Native para controle de gastos mensais e dashboard automático.
 * **Adoção e Resgate de Animais:** Plataforma mobile-first com geolocalização e cadastro de pets.
 * **Relatório Automatizado:** Integração backend com TypeScript, Firebase e deploy em Cloud Functions.
 
-### ⭐ Alguns números do GitHub
+### Alguns números do GitHub
 
 <div>
   <a href="https://github.com/SEUUSERNAME">
