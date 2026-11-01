@@ -13,6 +13,7 @@ Atualmente, trabalho com desenvolvimento Web, otimização de processos, automa�
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-151515?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -36,9 +37,9 @@ Atualmente, trabalho com desenvolvimento Web, otimização de processos, automa�
 
 ### Alguns projetos que já desenvolvi
 
-* **Sistema de Gestão Financeira:** App em React Native para controle de gastos mensais e dashboard automático.
-* **Adoção e Resgate de Animais:** Plataforma mobile-first com geolocalização e cadastro de pets.
-* **Relatório Automatizado:** Integração backend com TypeScript, Firebase e deploy em Cloud Functions.
+- **Sistema de Gestão Financeira:** App em React Native para controle de gastos mensais e dashboard automático.
+- **Adoção e Resgate de Animais:** Plataforma mobile-first com geolocalização e cadastro de pets.
+- **Relatório Automatizado:** Integração backend com TypeScript, Firebase e deploy em Cloud Functions.
 
 ### Alguns números do GitHub
 
