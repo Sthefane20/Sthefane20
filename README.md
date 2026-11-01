@@ -1,98 +1,53 @@
 <div align="center">
 
-<h1>Olá 👋 Eu sou a Sthefane Caroline</h1>
+  <!-- Banner Dinâmico no Topo (Efeito Onda Dark/Roxo) -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2b1055,100:6C63FF&height=180&section=header&text=Sthefane%20Caroline&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Gest%C3%A3o%20de%20Sistemas%20%7C%20Desenvolvedora%20FullStack%20%7C%20Solu%C3%A7%C3%B5es%20Inteligentes&descAlignY=58&descSize=16" />
 
-<h3>💼 Gestão de Sistemas | 💻 Desenvolvedora | 🚀 Soluções Inteligentes</h3>
+  <!-- Efeito de Digitação no Estilo Terminal -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A277FF&center=true&vCenter=true&width=700&lines=%3E+const+role+%3D+%22Formada+em+Sistemas+de+Informa%C3%A7%C3%A3o%22%3B;%3E+let+focus+%3D+%5B%22FullStack%22%2C+%22Gest%C3%A3o+de+Sistemas%22%5D%3B;%3E+Transformando+problemas+em+solu%C3%A7%C3%B5es+digitais...;%3E+Sempre+aprendendo+algo+novo+_" alt="Typing SVG" />
+  </a>
 
-<p>
-Transformando problemas em soluções digitais com estratégia, código e visão de negócio.
-</p>
+  <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=6C63FF&size=24&center=true&vCenter=true&width=600&lines=Formada+em+Sistemas+de+Informação;Fullstack;Gestão+de+Sistemas;Sempre+aprendendo+algo+novo" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/sthefanecaroline/?skipRedirect=true" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 🚀 Sobre mim
-
-Sou formada em **Sistemas de Informação** e atuo unindo tecnologia e estratégia.
-
-Tenho experiência com:
-
-- 💼 Gestão de sistemas  
-- 🛠️ Suporte técnico nível 2  
-- 📊 Otimização de processos  
-- 🎨 Desenvolvimento FullStack
-
----
-
-<br/>
-
-<div align="center">
-
-## 💡 Inspiração
-
-<p><em>
-"Inovação é a capacidade de ver a mudança como uma oportunidade, não uma ameaça."
-</em></p>
-
-<p><strong>— Steve Jobs</strong></p>
-
-</div>
-
-<br/>
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,nodejs,firebase,git,github,figma" />
+  <!-- Botões de Conexão no Estilo Dark -->
+  <p>
+    <a href="https://www.linkedin.com/in/sthefanecaroline/?skipRedirect=true" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0D1117" alt="LinkedIn" />
+    </a>
+    <a href="mailto:thefe.06@gmail.com">
+      <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email" />
+    </a>
+    <a href="#-projetos-em-destaque">
+      <img src="https://img.shields.io/badge/Projetos-0D1117?style=for-the-badge&logo=github&logoColor=A277FF&labelColor=0D1117" alt="Projetos" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-## 📌 Projetos em Destaque
+## 💻 `whoami` — Sobre Mim
 
-🔹 **Sistema de Gestão Financeira (React Native)**  
-Aplicativo para controle de gastos mensais com dashboard automático.
+```typescript
+interface DeveloperProfile {
+  name: string;
+  degree: string;
+  coreSkills: string[];
+  mindset: (problem: string) => string;
+}
 
-🔹 **Sistema de Adoção e Resgate de Animais**  
-Plataforma com geolocalização, cadastro de pets e interface mobile-first.
+const sthefane: DeveloperProfile = {
+  name: "Sthefane Caroline",
+  degree: "Bacharela em Sistemas de Informação 🎓",
+  coreSkills: [
 
-🔹 **Relatório Automatizado com Firebase + TypeScript**  
-Sistema com integração backend e deploy em cloud functions.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=radical"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=radical"/>
-
-</div>
-
----
-
-## ✨ Mentalidade
-
-> Código bom resolve problema.  
-> Código estratégico gera resultado.
-
-- 🎯 Pensamento analítico  
-- 🚀 Foco em evolução contínua  
-- 💡 Tecnologia como ferramenta de transformação  
-
----
+    "💼 Gestão de Sistemas",
+    "🎨 Desenvolvimento FullStack",
+    "📊 Otimização de Processos",
+  ],
+  mindset: (problem) => {
+    // Código bom resolve problema. Código estratégico gera resultado.
+    return `Solução digital aplicada com visão de negócio para: ${problem} 🚀`;
+  }
+};
