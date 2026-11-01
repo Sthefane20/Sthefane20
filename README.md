@@ -2,7 +2,7 @@
 
 Sou formada em **Sistemas de Informação**, Desenvolvedora FullStack e atuo na área de Gestão de Sistemas. Minha jornada na tecnologia sempre foi focada em unir código e visão de negócio: gosto de pegar problemas reais do dia a dia e transformá-los em soluções digitais práticas, bem estruturadas e que facilitem a vida das pessoas.
 
-Atualmente, trabalho bastante com desenvolvimento Web e Mobile, otimização de processos, automações e sustentação/suporte técnico nível 2. Curto muito estar em constante aprendizado, explorando diferentes arquiteturas e linguagens — porque no mundo do desenvolvimento sempre tem algo novo pra descobrir e melhorar 1% a cada dia.
+Atualmente, trabalho com desenvolvimento Web, otimização de processos, automações e sustentação/suporte técnico nível 2. Curto muito estar em constante aprendizado, explorando diferentes arquiteturas e linguagens principalmente porque no mundo do desenvolvimento sempre tem algo novo pra descobrir e melhorar 1% a cada dia.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sthefanecaroline/?skipRedirect=true)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
